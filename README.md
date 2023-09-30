@@ -1,5 +1,4 @@
 Ardu[R]eal-Time Operating System [MM] Magic Mirror [MQ] MQ Gas Sensor - RTOS Project
-
 learning
 arduino
 examples
